@@ -1,0 +1,17 @@
+body {
+    background: url(https://tse3.mm.bing.net/th/id/OIP.T9M-xW8fuohzhT4jAON2vwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+div  {
+    padding: 30px;
+    width: 800px;
+    margin: 150px auto;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(255, 255, 255, 0.317);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+}
